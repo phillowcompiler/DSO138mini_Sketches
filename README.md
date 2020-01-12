@@ -1,7 +1,7 @@
 # DSO138mini_Sketches
  JYETech DSO138mini(https://jyetech.com/dso138mini-oscilloscope-diy-kit/) is Oscilloscope DIY Kit.
  
- There is **STM32F103C8T6** and TFT LCD(320x240) on this board. So we can use Arduino for STM32.
+  This board is on **STM32F103C8T6** and TFT LCD(320x240). So we can use Arduino for STM32.
  
  - I suggest to develop using **PlatformIO**.
 
